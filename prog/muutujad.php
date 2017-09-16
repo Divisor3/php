@@ -16,5 +16,6 @@
 	echo 'Ringi umbermoot on: ' . $circumference . ' cm' . "\n";
 
 	echo "Ringi pindala on: $area cm2 \n";
-	echo "Ringi umbermoot on: $circumference cm";
+	echo "Ringi umbermoot on: $circumference cm \n";
+	echo "Ringi diameeter on: " . 2 * $radius . ' cm' . "\n";
 ?>
